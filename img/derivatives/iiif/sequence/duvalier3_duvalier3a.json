@@ -1,0 +1,66 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/duvalier3_duvalier3a.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/duvalier3_duvalier3a.json",
+      "label": "Page 1",
+      "width": 1236,
+      "height": 954,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/duvalier3_duvalier3a/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/duvalier3_duvalier3a.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/duvalier3_duvalier3a/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/duvalier3_duvalier3a",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 618,
+            "height": 477
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/duvalier3_duvalier3a.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/duvalier3_duvalier3b.json",
+      "label": "Page 2",
+      "width": 1078,
+      "height": 954,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/duvalier3_duvalier3b/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/duvalier3_duvalier3b.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/duvalier3_duvalier3b/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/duvalier3_duvalier3b",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 539,
+            "height": 477
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/duvalier3_duvalier3b.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

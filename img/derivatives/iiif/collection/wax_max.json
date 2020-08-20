@@ -1,0 +1,56 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/wax_max.json",
+  "@type": "sc:Collection",
+  "label": "wax_max",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mwa_insta_working/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mwa_insta_working"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mwa_surat_rahman/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mwa_surat_rahman"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/duvalier3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "duvalier3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mwa_khabib/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mwa_khabib"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mwa_teardrop/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mwa_teardrop"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/mwa_surat_al_ikhlas/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "mwa_surat_al_ikhlas"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/duvalier1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "duvalier1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/duvalier2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "duvalier2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/duvalier5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "duvalier5"
+    }
+  ]
+}

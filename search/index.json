@@ -1,0 +1,95 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "duvalier2",
+    "label": "Papa Doc with Lafontant",
+    "_date": "1960",
+    "description": "Papa Doc is photographed meeting with Louis Lafontant, feared leader of the secret police",
+    "collection": "wax_max",
+    "thumbnail": "/img/derivatives/iiif/images/duvalier2/full/250,/0/default.jpg",
+    "permalink": "/wax_max/duvalier2",
+    "lunr_id": 0
+  },
+  {
+    "pid": "duvalier3",
+    "label": "Secret Police Members",
+    "_date": "1958",
+    "description": "Member of the secret police are photographed laughing at the national palace. ",
+    "collection": "wax_max",
+    "thumbnail": "/img/derivatives/iiif/images/duvalier3_duvalier3a/full/250,/0/default.jpg",
+    "permalink": "/wax_max/duvalier3",
+    "lunr_id": 1
+  },
+  {
+    "pid": "mwa_surat_rahman",
+    "label": "Surat al-Rahmān",
+    "_date": "2018",
+    "description": "Instagram photo of a materialization of Surat al-Rahmān",
+    "collection": "wax_max",
+    "thumbnail": "/img/derivatives/iiif/images/mwa_surat_rahman/full/250,/0/default.jpg",
+    "permalink": "/wax_max/mwa_surat_rahman",
+    "lunr_id": 2
+  },
+  {
+    "pid": "mwa_khabib",
+    "label": "Khabib Nurmagomedov ",
+    "_date": "2018",
+    "description": "Khabib Nurmagomedov posing in front of an MWA piece after his MMA victory",
+    "collection": "wax_max",
+    "thumbnail": "/img/derivatives/iiif/images/mwa_khabib/full/250,/0/default.jpg",
+    "permalink": "/wax_max/mwa_khabib",
+    "lunr_id": 3
+  },
+  {
+    "pid": "mwa_insta_working",
+    "label": "Working",
+    "_date": "2019",
+    "description": "Saif working at the shop",
+    "collection": "wax_max",
+    "thumbnail": "/img/derivatives/iiif/images/mwa_insta_working/full/250,/0/default.jpg",
+    "permalink": "/wax_max/mwa_insta_working",
+    "lunr_id": 4
+  },
+  {
+    "pid": "mwa_surat_al_ikhlas",
+    "label": "Surat al-Ikhlās",
+    "_date": "2018",
+    "description": "Instagram post of a materialization of Surat al-Ikhlās",
+    "collection": "wax_max",
+    "thumbnail": "/img/derivatives/iiif/images/mwa_surat_al_ikhlas/full/250,/0/default.jpg",
+    "permalink": "/wax_max/mwa_surat_al_ikhlas",
+    "lunr_id": 5
+  },
+  {
+    "pid": "duvalier5",
+    "label": "Police Officers await Duvalier's arrival",
+    "_date": "1959",
+    "description": "Secret Police officers wait, standing at attention for Papa Doc to arrive. ",
+    "collection": "wax_max",
+    "thumbnail": "/img/derivatives/iiif/images/duvalier5/full/250,/0/default.jpg",
+    "permalink": "/wax_max/duvalier5",
+    "lunr_id": 6
+  },
+  {
+    "pid": "mwa_teardrop",
+    "label": "Children's protection",
+    "_date": "2019",
+    "description": "Instagram post of a piece materializing a Duah for children's protection",
+    "collection": "wax_max",
+    "thumbnail": "/img/derivatives/iiif/images/mwa_teardrop/full/250,/0/default.jpg",
+    "permalink": "/wax_max/mwa_teardrop",
+    "lunr_id": 7
+  },
+  {
+    "pid": "duvalier1",
+    "label": "Francois and Simone Duvalier with his army captain at the Palace National",
+    "_date": "1958",
+    "description": "Duvalier meets with members of the armed forces in Port au Prince",
+    "collection": "wax_max",
+    "thumbnail": "/img/derivatives/iiif/images/duvalier1/full/250,/0/default.jpg",
+    "permalink": "/wax_max/duvalier1",
+    "lunr_id": 8
+  }
+]

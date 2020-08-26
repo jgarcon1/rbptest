@@ -108,6 +108,7 @@ menu:
         link: '/credits/'
       - label: 'Community Archiving'
         link: 'https://jgarcon1.github.io/blackwell/'
+
   - label: 'Exhibits'
     sub:
       - label: 'Black Resistance Movement, 2019'
